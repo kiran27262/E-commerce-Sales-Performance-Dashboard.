@@ -5,9 +5,10 @@ This project showcases the end-to-end process of turning raw e-commerce transact
 The goal was to move beyond static analysis and create a dynamic tool that allows stakeholders to explore key performance indicators (KPIs), identify sales trends, and understand core product performance and customer behavior.
 
 🚀 Live Demo
-View the Live Dashboard Here: [INSERT YOUR STREAMLIT CLOUD URL HERE]
+View the Live Dashboard Here:Local URL: http://localhost:8501
+  Network URL: http://192.168.0.141:8501
 
-GitHub Repository: [INSERT YOUR GITHUB REPO LINK HERE]
+GitHub Repository:
 
 Key Insights (The Data Story)
 By performing data cleaning, feature engineering, and visualization, the following critical business insights were revealed:
