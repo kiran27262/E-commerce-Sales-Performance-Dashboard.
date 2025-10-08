@@ -8,7 +8,7 @@ The goal was to move beyond static analysis and create a dynamic tool that allow
 View the Live Dashboard Here:Local URL: http://localhost:8501
   Network URL: http://192.168.0.141:8501
 
-GitHub Repository:
+GitHub Repository: https://github.com/kiran27262/E-commerce-Sales-Performance-Dashboard..git
 
 Key Insights (The Data Story)
 By performing data cleaning, feature engineering, and visualization, the following critical business insights were revealed:
