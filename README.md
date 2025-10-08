@@ -32,16 +32,6 @@ Web Development (Streamlit): Building and styling a clean, functional, and fully
 
 Deployment: Successfully deploying the application to a cloud service (Streamlit Cloud or similar) for 24/7 accessibility.
 
-How to Run Locally
-Clone the repository:
-
-git clone [YOUR REPO LINK]
-cd ecommerce-dashboard
-
-Install dependencies: (Make sure you are in your Anaconda environment if you used Conda)
-
-pip install -r requirements.txt
-
 Run the application:
 
 streamlit run app.py
