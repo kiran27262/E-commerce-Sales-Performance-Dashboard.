@@ -33,7 +33,7 @@ def load_and_clean_data(file_path):
 
 # --- 3. EXECUTE DATA LOAD ---
 # *** REPLACE 'your_data.csv' HERE ***
-DATA_FILE = 'online_retail.csv' 
+DATA_FILE = 'sample_data.csv' 
 try:
     df = load_and_clean_data(DATA_FILE)
 except FileNotFoundError:
@@ -143,4 +143,5 @@ fig_pie = px.pie(
     values='Revenue',
     title='Revenue Distribution by Day of Week',
 )
+
 st.plotly_chart(fig_pie, use_container_width=True)
